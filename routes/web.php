@@ -33,5 +33,4 @@ Route::get('utama', [HomeController::class, 'yuni']);
 
 //Jalur Route ke Halaman contact
 Route::get('kontak', [HomeController::class, 'saya']);
-Route::get('umi', [HomeController::class, 'umi']);
 Route::get('homeyuni', [HomeController::class, 'homeyuni']);

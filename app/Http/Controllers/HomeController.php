@@ -15,9 +15,7 @@ class HomeController extends Controller
     public function saya(){
     	return view('contact');
     }
-    public function umi(){
-    	return 'umi';
-    }
+    
     public function homeyuni(){
     	return 'wahyunimakmur';
     }
